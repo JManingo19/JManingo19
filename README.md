@@ -46,7 +46,7 @@ Feel free to reach out for collaborations or to discuss software development.
 - 🤔 I’m looking for help with learning programming.
 - 💬 Ask me about my day.
 - 📫 How to reach me: j.maningo.553164@umindanao.edu.ph
-- ⚡ Fun fact: I'm a night owl.
+- ⚡ Fun fact: I am a night owl.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
