@@ -48,4 +48,6 @@ Feel free to reach out for collaborations or to discuss software development.
 - 📫 How to reach me: j.maningo.553164@umindanao.edu.ph
 - ⚡ Fun fact: I'm a night owl.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</p>
